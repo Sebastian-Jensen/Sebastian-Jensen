@@ -8,7 +8,7 @@
  * "A Neural Network Approach to the Environmental Kuznets Curve" by Bennedsen, Hillebrand and Jensen (2021), and
  * "Apocalypse Now? Future Emissions Projections using Neural Networks" by Bennedsen, Hillebrand and Jensen (2021).
 
-The code needed to reproduce the results of these two papers and to apply the proposed methodology can be found in my repositories under the same names.
+The code needed to reproduce the results of these two papers and to apply the proposed methodology can be found in my repositories.
  
  You can contact me via smjensen@econ.au.dk.
 
