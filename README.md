@@ -1,6 +1,6 @@
  My name is Sebastian Jensen.
  
- I am PhD student at Aarhus University, Denmark, working within the fields of Climate Econometrics and Machine Learning. 
+ I am PhD student at Aarhus University, Denmark, working on Climate Econometrics and Machine Learning. 
  
  My research focuses mainly on how traditional econometric techniques can be combined with modern Machine Learning algorithms to develop novel and superior tools and methods.
 
