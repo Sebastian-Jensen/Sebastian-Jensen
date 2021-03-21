@@ -4,7 +4,7 @@
  
  My research focuses mainly on how traditional econometric techniques can be combined with modern Machine Learning algorithms to develop novel and superior tools and methods.
 
- Together with colleagues, I have developed a novel, semiparametric panel data methodology, which combines parametric fixed effects with a nonparametric Neural Network regression component. More information can be found in the two papers:
+ Together with colleagues, I have developed a novel, Neural Network-based panel data methodology, which combines cross-sectional and/or time-specific fixed effects with a nonparametric Neural Network regression component. More information can be found in the two papers:
  * "A Neural Network Approach to the Environmental Kuznets Curve" by Bennedsen, Hillebrand and Jensen (2021), and
  * "Apocalypse Now? Future Emissions Projections using Neural Networks" by Bennedsen, Hillebrand and Jensen (2021).
 
