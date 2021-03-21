@@ -1,0 +1,16 @@
+ My name is Sebastian Jensen.
+ 
+ I am PhD student at Aarhus University, Denmark, working within the fields of Climate Econometrics and Machine Learning. 
+ 
+ My research focuses mainly on how traditional econometric techniques can be combined with modern Machine Learning algorithms to develop novel and superior tools and methods.
+
+ Together with co-authors, I have developed a novel, semiparametric panel data methodology, which combines parametric fixed effects with a nonparametric Neural Network regression component. More information can be found in the two papers:
+ * "A Neural Network Approach to the Environmental Kuznets Curve" by Bennedsen, Hillebrand and Jensen (2021), and
+ * "Apocalypse Now? Future Emissions Projections using Neural Networks" by Bennedsen, Hillebrand and Jensen (2021).
+ 
+ You can contact me via smjensen@econ.au.dk.
+
+<!---
+Sebastian-Jensen/Sebastian-Jensen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
