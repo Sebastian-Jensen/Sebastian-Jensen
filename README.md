@@ -1,6 +1,6 @@
  My name is Sebastian Jensen.
  
- I am PhD student at Aarhus University, Denmark, working on Climate Econometrics and Machine Learning. 
+ I am Postdoc at Aarhus University, Denmark, working on Climate Econometrics and Machine Learning. 
 
  I have developed a novel, ***Neural Network-based panel data methodology*** together with colleagues from Aarhus University Professor Eric Hillebrand and Assistant Professor Mikkel Bennedsen, which combines cross-sectional and/or time-specific fixed effects with a nonparametric Neural Network regression component. More information can be found in the two papers:
  * [A Neural Network Approach to the Environmental Kuznets Curve]() by Bennedsen, Hillebrand and Jensen (2021), and
